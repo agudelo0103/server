@@ -535,6 +535,8 @@
       "cooked_porkchop": "2026-08-26 18:46:34 -0500",
       "cooked_mutton": "2026-08-26 17:47:33 -0500",
       "baked_potato": "2026-08-26 03:07:39 -0500",
+      "potato": "2026-08-27 23:19:48 -0500",
+      "mutton": "2026-08-27 23:19:34 -0500",
       "bread": "2026-08-26 02:38:29 -0500",
       "rotten_flesh": "2026-08-26 02:26:46 -0500",
       "melon_slice": "2026-08-26 20:50:43 -0500",
@@ -2497,9 +2499,81 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:junior_summoner": {
+    "criteria": {
+      "junior_summoner_0": "2026-08-26 21:57:40 -0500"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:good_demoman": {
+    "criteria": {
+      "good_demoman_0": "2026-08-26 22:02:01 -0500"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2026-08-26 22:06:53 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2026-08-26 22:14:34 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2026-08-26 22:31:19 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2026-08-26 22:31:19 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2026-08-26 22:37:09 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2026-08-26 22:37:54 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2026-08-26 22:37:54 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2026-08-26 22:37:59 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2026-08-26 22:37:59 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2026-08-26 22:41:14 -0500"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/white_dye_from_tall_white_lavender": {
+    "criteria": {
+      "has_tall_white_lavender": "2026-08-26 22:46:37 -0500"
     },
     "done": true
   },
@@ -2515,75 +2589,243 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/pumpkin_seeds": {
+  "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
-      "has_pumpkin": "2026-08-26 22:31:19 -0500"
+      "has_andesite": "2026-08-27 23:20:31 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
-      "has_rose_bush": "2026-08-26 22:41:14 -0500"
+      "has_andesite": "2026-08-27 23:20:31 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_wood": {
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
-      "has_log": "2026-08-26 22:37:54 -0500"
+      "has_andesite": "2026-08-27 23:20:31 -0500"
     },
     "done": true
   },
-  "biomesoplenty:recipes/misc/white_dye_from_tall_white_lavender": {
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
-      "has_tall_white_lavender": "2026-08-26 22:46:37 -0500"
+      "has_andesite": "2026-08-27 23:20:31 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/food/pumpkin_pie": {
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
-      "has_pumpkin": "2026-08-26 22:31:19 -0500"
+      "has_andesite": "2026-08-27 23:20:31 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_planks": {
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
-      "has_logs": "2026-08-26 22:37:54 -0500"
+      "has_andesite": "2026-08-27 23:20:31 -0500"
     },
     "done": true
   },
-  "born_in_chaos_v1:good_demoman": {
+  "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
-      "good_demoman_0": "2026-08-26 22:02:01 -0500"
+      "has_andesite": "2026-08-27 23:20:31 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+  "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
-      "has_sunflower": "2026-08-26 22:37:09 -0500"
+      "has_andesite": "2026-08-27 23:20:31 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/acacia_wood": {
+  "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
-      "has_log": "2026-08-26 22:37:59 -0500"
+      "has_andesite": "2026-08-27 23:20:31 -0500"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
-      "has_iron_backpack": "2026-08-26 22:06:53 -0500"
+      "has_andesite": "2026-08-27 23:20:31 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/acacia_planks": {
+  "minecraft:recipes/tools/spyglass": {
     "criteria": {
-      "has_log": "2026-08-26 22:37:59 -0500"
+      "has_amethyst_shard": "2026-08-27 23:28:27 -0500"
     },
     "done": true
   },
-  "born_in_chaos_v1:junior_summoner": {
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
     "criteria": {
-      "junior_summoner_0": "2026-08-26 21:57:40 -0500"
+      "has_amethyst_shard": "2026-08-27 23:28:27 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2026-08-27 23:28:27 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2026-08-27 23:28:27 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2026-08-27 23:33:41 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2026-08-27 23:33:41 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2026-08-27 23:33:47 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2026-08-27 23:33:47 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2026-08-27 23:33:47 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2026-08-27 23:33:47 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2026-08-27 23:33:47 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2026-08-27 23:33:47 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2026-08-27 23:33:47 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2026-08-27 23:33:47 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2026-08-27 23:33:47 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2026-08-27 23:46:54 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2026-08-27 23:46:54 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2026-08-27 23:46:54 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2026-08-27 23:46:54 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2026-08-27 23:46:54 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2026-08-27 23:46:54 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2026-08-27 23:46:54 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2026-08-27 23:46:54 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2026-08-27 23:46:54 -0500"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/tnt_from_bop_sand": {
+    "criteria": {
+      "has_gunpowder": "2026-08-28 00:33:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2026-08-28 00:45:06 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2026-08-28 00:45:06 -0500"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:exorcism": {
+    "criteria": {
+      "exorcism_0": "2026-08-28 00:17:44 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2026-08-28 00:33:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2026-08-28 00:33:58 -0500"
     },
     "done": true
   },
